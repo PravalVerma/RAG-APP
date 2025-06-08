@@ -1,1 +1,1 @@
-# RAG-APP
+# Instructions for setup and usage
