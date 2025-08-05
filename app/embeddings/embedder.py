@@ -4,7 +4,7 @@ import requests
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv("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")  # ✅ Use generic name
+API_KEY = os.getenv("OPENROUTER_API_KEY")  # ✅ Use generic name
 
 EMBEDDING_MODEL = "openrouter/mistral-embed"
 
